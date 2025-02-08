@@ -1,3 +1,3 @@
-module github.com/akopkesheshyan/hugo-theme-rose-pine
+module github.com/k-nox/hugo-theme-rose-pine
 
 go 1.20
